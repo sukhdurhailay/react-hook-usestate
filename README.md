@@ -1,2 +1,2 @@
 # react-hook-usestate
-Example of the news React Hook useState
+Example of the new React Hook: useState
